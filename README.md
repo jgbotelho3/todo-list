@@ -1,9 +1,9 @@
 ## Todo List with Laravel and VueJS
-![Home](https://github.com/jgbotelho3/todo-list/blob/main/public/todolist.png?raw=true)
+![Home](https://github.com/jgbotelho3/todo-list/blob/main/public/images/todolist.png?raw=true)
 
-![Insert Item](https://github.com/jgbotelho3/todo-list/blob/main/public/secondItem.png?raw=true)
+![Insert Item](https://github.com/jgbotelho3/todo-list/blob/main/public/images/secondItem.png?raw=true)
 
-![Insert Item](https://github.com/jgbotelho3/todo-list/blob/main/public/todolistItem.png?raw=true)
+![Insert Item](https://github.com/jgbotelho3/todo-list/blob/main/public/images/todolistItem.png?raw=true)
 
 ### How to Install
 
